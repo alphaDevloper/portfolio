@@ -13,11 +13,7 @@ function Projects() {
       <div className="flex items-center justify-center flex-wrap lg:gap-20 gap-16">
         <Reveal initialY={20} delay={0.4}>
           <div className="bg-black-100 p-4 rounded-xl border border-white/15">
-            <img
-              src="/public/images/Apex_1737543894578.png"
-              alt=""
-              className="w-96"
-            />
+            <img src="/images/Apex_1737543894578.png" alt="" className="w-96" />
             <h1 className="text-white text-2xl mt-2 font-semibold">
               Layers app
             </h1>
@@ -29,49 +25,29 @@ function Projects() {
             <div className="flex items-center mt-2">
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center">
                 <img
-                  src="/public/images/bootstrap.png"
+                  src="/images/bootstrap.png"
                   alt=""
                   className="lg:w-10 w-8 p-2"
                 />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
             </div>
           </div>
         </Reveal>
         <Reveal initialY={20} delay={0.4}>
           <div className="bg-black-100 p-4 rounded-xl border border-white/15">
-            <img
-              src="/public/images/Apex_1737543894578.png"
-              alt=""
-              className="w-96"
-            />
+            <img src="/images/Apex_1737543894578.png" alt="" className="w-96" />
             <h1 className="text-white text-2xl mt-2 font-semibold">
               Layers app
             </h1>
@@ -83,49 +59,29 @@ function Projects() {
             <div className="flex items-center mt-2">
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center">
                 <img
-                  src="/public/images/bootstrap.png"
+                  src="/images/bootstrap.png"
                   alt=""
                   className="lg:w-10 w-8 p-2"
                 />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
             </div>
           </div>
         </Reveal>
         <Reveal initialY={20} delay={0.4}>
           <div className="bg-black-100 p-4 rounded-xl border border-white/15">
-            <img
-              src="/public/images/Apex_1737543894578.png"
-              alt=""
-              className="w-96"
-            />
+            <img src="/images/Apex_1737543894578.png" alt="" className="w-96" />
             <h1 className="text-white text-2xl mt-2 font-semibold">
               Layers app
             </h1>
@@ -137,49 +93,29 @@ function Projects() {
             <div className="flex items-center mt-2">
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center">
                 <img
-                  src="/public/images/bootstrap.png"
+                  src="/images/bootstrap.png"
                   alt=""
                   className="lg:w-10 w-8 p-2"
                 />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
             </div>
           </div>
         </Reveal>
         <Reveal initialY={20} delay={0.4}>
           <div className="bg-black-100 p-4 rounded-xl border border-white/15">
-            <img
-              src="/public/images/Apex_1737543894578.png"
-              alt=""
-              className="w-96"
-            />
+            <img src="/images/Apex_1737543894578.png" alt="" className="w-96" />
             <h1 className="text-white text-2xl mt-2 font-semibold">
               Layers app
             </h1>
@@ -191,38 +127,22 @@ function Projects() {
             <div className="flex items-center mt-2">
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center">
                 <img
-                  src="/public/images/bootstrap.png"
+                  src="/images/bootstrap.png"
                   alt=""
                   className="lg:w-10 w-8 p-2"
                 />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
               <div className="border border-white/15 rounded-full bg-black lg:w-10 lg:h-10 flex items-center justify-center w-8 h-8">
-                <img
-                  src="/public/images/bootstrap.png"
-                  alt=""
-                  className="w-10 p-2"
-                />
+                <img src="/images/bootstrap.png" alt="" className="w-10 p-2" />
               </div>
             </div>
           </div>

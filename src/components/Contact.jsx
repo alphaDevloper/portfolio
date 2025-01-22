@@ -4,7 +4,7 @@ import Magicbtn from "./ui/Magicbtn";
 function Contact() {
   return (
     <div className="py-20 max-w-7xl relative" id="contact">
-      <div className="w-96 h-96 bg-blue-900 blur-[200px] rounded-full absolute left-0 lg:block hidden" />
+      <div className="w-96 h-96 bg-blue-900 blur-[200px] rounded-full absolute right-0 lg:block hidden" />
       <div className="flex flex-col mx-auto items-center text-center">
         <Reveal initialY={20}>
           <h1 className="lg:text-5xl text-4xl text-white font-bold lg:px-64">

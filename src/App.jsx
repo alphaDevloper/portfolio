@@ -5,6 +5,7 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import Social from "./components/Social";
+import Projects from "./components/Projects";
 
 function App() {
   const route = createBrowserRouter([
@@ -16,6 +17,7 @@ function App() {
           <Hero />
           <About />
           <Skills />
+          <Projects />
           <Contact />
           <Social />
         </>

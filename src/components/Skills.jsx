@@ -1,7 +1,7 @@
 import Reveal from "../Reveal";
 function Skills() {
   return (
-    <div className="py-20 max-w-7xl" id="skills">
+    <div className="py-20 max-w-7xl relative" id="skills">
       <div className="flex justify-center">
         <Reveal initialY={15}>
           <div className="inline-flex border border-white-400 gap-2 text-white font-semibold px-3 py-1 rounded-full uppercase items-center">
@@ -16,7 +16,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/html.png"
+              src="/images/html.png"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -25,7 +25,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/css-removebg-preview.png"
+              src="/images/css-removebg-preview.png"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -34,7 +34,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/javascript.svg"
+              src="/images/javascript.svg"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -43,7 +43,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/react.svg"
+              src="/images/react.svg"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -52,7 +52,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/typescript.svg"
+              src="/images/typescript.svg"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -61,7 +61,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/nodejs.png"
+              src="/images/nodejs.png"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -70,7 +70,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/mongodb.svg"
+              src="/images/mongodb.svg"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -79,7 +79,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/figma.svg"
+              src="/images/figma.svg"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -88,7 +88,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/bootstrap.png"
+              src="/images/bootstrap.png"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -97,7 +97,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/tailwind.svg"
+              src="/images/tailwind.svg"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -106,7 +106,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/git.svg"
+              src="/images/git.svg"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />
@@ -115,7 +115,7 @@ function Skills() {
         <Reveal initialY={25}>
           <div className="m-2 images">
             <img
-              src="/assets/images/materialui.svg"
+              src="/images/materialui.svg"
               alt=""
               className="lg:w-16 md:w-14 w-12"
             />

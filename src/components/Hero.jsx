@@ -3,7 +3,8 @@ import Magicbtn from "./ui/Magicbtn";
 
 function Hero() {
   return (
-    <div className="pb-16 pt-20 max-w-7xl">
+    <div className="pb-16 pt-20 max-w-7xl relative">
+      <div className="w-96 h-96 bg-blue-900 blur-[200px] rounded-full absolute sm:left-0" />
       <div className="flex justify-center relative mt-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <Reveal initialY={20}>

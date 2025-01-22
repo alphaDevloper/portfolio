@@ -39,7 +39,7 @@ function About() {
           </div>
           <div className="grid lg:grid-cols-2 items-center lg:gap-16">
             <Reveal initialX={-25}>
-              <h1 className="font-semibold text-white text-center md:text-center lg:text-left text-3xl leading-tight">
+              <h1 className="font-bold text-white text-center md:text-center lg:text-left text-3xl leading-tight">
                 Hi, I&apos;m <span className="text-purple">Abdullah</span>, a
                 Full Stack Developer with a Passion for{" "}
                 <span className="text-purple">
@@ -51,7 +51,7 @@ function About() {
             <div className="my-6 flex justify-center">
               <Reveal initialX={25}>
                 <img
-                  src="/assets/images/dev-removebg-preview.png"
+                  src="/images/dev-removebg-preview.png"
                   alt=""
                   className="w-96"
                 />
@@ -60,6 +60,7 @@ function About() {
           </div>
         </div>
       </div>
+      <div className="w-96 h-96 bg-blue-900 blur-[200px] rounded-full absolute right-0" />
     </div>
   );
 }

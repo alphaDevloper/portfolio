@@ -1,13 +1,14 @@
 import Reveal from "../Reveal";
+import { projects } from "../../data/index";
 
 function Projects() {
   return (
     <div className="py-20 max-w-7xl" id="projects">
-      <div className="w-96 h-96 bg-blue-900 blur-[200px] rounded-full absolute left-0 lg:block hidden" />
+      {/* <div className="w-96 h-96 bg-blue-900 blur-[200px] rounded-full absolute left-0 lg:block hidden" /> */}
       <Reveal initialY={20}>
         <h1 className="text-4xl mb-24 font-semibold text-center text-white">
           A small selection of{" "}
-          <span className="text-purple">recent projects</span>
+          <span className="text-blue-400">recent projects</span>
         </h1>
       </Reveal>
       <div className="flex items-center justify-center flex-wrap lg:gap-20 gap-16">
@@ -15,7 +16,7 @@ function Projects() {
           <div className="bg-black-100 p-4 rounded-xl border border-white/15">
             <img src="/images/Apex_1737543894578.png" alt="" className="w-96" />
             <h1 className="text-white text-2xl mt-2 font-semibold">
-              Layers app
+              {projects[0].title}
             </h1>
             <p className="text-white text-lg w-full max-w-sm line-clamp-2">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,

@@ -9,11 +9,11 @@ function About() {
   useEffect(() => {
     const typed = new Typed(el.current, {
       strings: [
-        "UI/UX design",
         "Frontend development with React.",
         "Backend development.",
         "Full-stack development.",
         "Figma for stunning designs.",
+        "UI/UX design",
       ],
       typeSpeed: 50,
     });
@@ -40,9 +40,9 @@ function About() {
           <div className="grid lg:grid-cols-2 items-center lg:gap-16">
             <Reveal initialX={-25}>
               <h1 className="font-bold text-white text-center md:text-center lg:text-left text-3xl leading-tight">
-                Hi, I&apos;m <span className="text-purple">Abdullah</span>, a
+                Hi, I&apos;m <span className="text-blue-400">Abdullah</span>, a
                 Full Stack Developer with a Passion for{" "}
-                <span className="text-purple">
+                <span className="text-blue-400">
                   {" "}
                   <span ref={el} />
                 </span>
@@ -60,7 +60,7 @@ function About() {
           </div>
         </div>
       </div>
-      <div className="w-96 h-96 bg-blue-900 blur-[200px] rounded-full absolute right-0" />
+      {/* <div className="w-96 h-96 bg-blue-900 blur-[200px] rounded-full absolute right-0" /> */}
     </div>
   );
 }

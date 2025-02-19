@@ -18,7 +18,7 @@ function Social() {
               <FaYoutube className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>
           </a> */}
-          <a href="https://www.linkedin.com/in/abdullah-alam-45a017352/">
+          <a href="https://www.linkedin.com/in/abdullahalam680/">
             <div>
               <FaLinkedin className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>

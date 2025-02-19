@@ -19,7 +19,7 @@ function Contact() {
           </p>
         </Reveal>
         <Reveal initialY={20}>
-          <a href="mailto:abdullahdanyal1234@gmail.com">
+          <a href="mailto:abdullah2006alam@gmail.com">
             <Magicbtn title="Let's get in touch" />
           </a>
         </Reveal>

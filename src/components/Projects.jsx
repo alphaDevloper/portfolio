@@ -41,7 +41,7 @@ function Projects() {
         </Reveal>
         <Reveal initialY={20} delay={0.4}>
           <a href="https://layers-mauve.vercel.app/">
-            <div className="bg-black-100 p-4 rounded-xl border border-white/20">
+            <div className="bg-black-100 p-4 rounded-3xl border border-white/20">
               <img
                 src="/images/Apex_1737543894578.png"
                 alt=""

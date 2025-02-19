@@ -1,10 +1,4 @@
-import {
-  FaDiscord,
-  FaGithub,
-  FaInstagram,
-  FaLinkedin,
-  FaYoutube,
-} from "react-icons/fa6";
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa6";
 import Reveal from "../Reveal";
 
 function Social() {
@@ -19,31 +13,31 @@ function Social() {
           </h2>
         </Reveal>
         <div className="mt-12 flex justify-center flex-wrap lg:gap-16 gap-8">
-          <a href="https://www.youtube.com/">
+          {/* <a href="https://www.youtube.com/">
             <div>
               <FaYoutube className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>
-          </a>
-          <a href="https://www.linkedin.com/">
+          </a> */}
+          <a href="https://www.linkedin.com/in/abdullah-alam-45a017352/">
             <div>
               <FaLinkedin className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>
           </a>
-          <a href="https://github.com/">
+          <a href="https://github.com/alphaDevloper">
             <div>
               <FaGithub className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>
           </a>
-          <a href="https://www.instagram.com/">
+          <a href="https://www.instagram.com/abdullahalam680/">
             <div>
               <FaInstagram className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>
           </a>
-          <a href="https://discord.com/">
+          {/* <a href="https://discord.com/">
             <div>
               <FaDiscord className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>
-          </a>
+          </a> */}
         </div>
       </div>
     </div>

@@ -28,7 +28,7 @@ function Social() {
               <FaGithub className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>
           </a>
-          <a href="https://www.instagram.com/abdullahalam680/">
+          <a href="https://www.instagram.com/abdu.llahalam680/">
             <div>
               <FaInstagram className="text-white text-5xl hover:text-blue-300 cursor-pointer" />
             </div>
